@@ -1,5 +1,5 @@
 # iso_forest_real_time
-Matlab files for paper on unsupervised anomaly detection
+Matlab files for paper on unsupervised anomaly detection. Please consider citing the article if you find this useful: Khan, S., Liew, C. F., Yairi, T., & McWilliam, R. (2019). Unsupervised anomaly detection in unmanned aerial vehicles. Applied Soft Computing, 83, 105650.
 
 # Data files:
 
